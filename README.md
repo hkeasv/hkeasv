@@ -1,4 +1,4 @@
-### Hi there 👋
+### I use this GitHub account to publish code examples for teaching software development 👋
 
 <!--
 **hkeasv/hkeasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
